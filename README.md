@@ -141,10 +141,6 @@ Based on the sample data analysis:
 - **Member Distribution**: Even distribution across 5 villages (10 members each)
 - **Age Groups**: All age groups show significant income growth
 
-## 💼 Resume Bullet Point
-
-> "Developed SHG Impact Analysis Dashboard using SQL (5 normalized tables, 10+ analytical queries) and Python (pandas, matplotlib) analyzing 50 members across 5 villages; identified 120-150% average income growth in dairy/tailoring activities and 85% loan repayment rate; created automated Python pipeline exporting results to CSV and visualizations."
-
 ## 📝 Usage Examples
 
 ### Running SQL Queries
